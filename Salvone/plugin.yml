@@ -1,0 +1,5 @@
+name: mFactions
+version: 0.1
+main: mfactions.main.Main
+description: Provides faction functionality.
+authors: [Googlelover1234, xXkguyXx]
